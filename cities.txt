@@ -6,3 +6,5 @@ Hsinchu
 Taipei
 Beijing
 Lynwood
+Redmond
+Toronto
