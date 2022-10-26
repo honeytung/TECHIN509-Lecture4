@@ -3,3 +3,5 @@ Richmond
 Seattle
 Bellevue
 Hsinchu
+Taipei
+Beijing
